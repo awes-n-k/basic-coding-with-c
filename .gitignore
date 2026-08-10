@@ -1,0 +1,15 @@
+# Binaries and executables
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug files
+*.dSYM/
+*.pdb
+
+# IDE and OS metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
