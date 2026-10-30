@@ -2,7 +2,7 @@
 
 upes 100 days of code - c programming
 
-solutions from day 1 to day 63 (ongoing)
+solutions from day 1 to day 78 (ongoing)
 website: https://maitysoumik.github.io/basic-coding-with-c/
 
 ### notes
